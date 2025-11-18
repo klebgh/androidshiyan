@@ -5,13 +5,13 @@
 
 ​	在下载了android studio并下好依赖后，我创建了一个初始项目MyTestAPP并运行了其自带的mainActivity文件，结果如下:
 
-![image-20251118144110376](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20251118144110376.png)
 
 
+![屏幕截图 2025-11-18 144027](https://cdn.jsdelivr.net/gh/klebgh/androidshiyan@shiyan1/屏幕截图%202025-11-18%20144027.png)
 
 在运行成功后，我将这个项目传到了github上的androidshiyan的shiyan1分支下
 
-![image-20251118144840357](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20251118144840357.png)
+![image-20251118144840357](https://github.com/klebgh/androidshiyan/blob/shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20144710.png?raw=true)
 
 
 
@@ -230,7 +230,7 @@
 </LinearLayout>
 ```
 
-![image-20251118150138487](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20251118150138487.png)
+![image-20251118150138487](https://github.com/klebgh/androidshiyan/blob/shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20150134.png?raw=true)
 
 ​	2.表格布局
 
@@ -381,7 +381,7 @@
 </TableLayout>
 ```
 
-![image-20251118151537192](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20251118151537192.png)
+![image-20251118151537192](https://github.com/klebgh/androidshiyan/blob/shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20151530.png?raw=true)
 
 ​	3.约束布局1
 
@@ -617,7 +617,7 @@
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-![image-20251118152421793](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20251118152421793.png)
+![image-20251118152421793](https://cdn.jsdelivr.net/gh/klebgh/androidshiyan@shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20152413.png)
 
 ​	4.约束布局2
 
@@ -829,7 +829,7 @@
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-![image-20251118153647659](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20251118153647659.png)
+![image-20251118153647659](https://cdn.jsdelivr.net/gh/klebgh/androidshiyan@shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20153640.png)
 
 三.Android界面组件实验
 
@@ -900,6 +900,8 @@
 ​	（2）Toast功能的实现
 
 ​	点击列表项后，会在下方的按钮显示选中的用户名，并弹出提示：选中了：selectedText，selectedText为选中列表项的文本内容。
+
+![屏幕截图 2025-11-18 152413](https://cdn.jsdelivr.net/gh/klebgh/androidshiyan@shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20173712.png)
 
 ​	（3）通知功能的实现
 
@@ -1208,7 +1210,7 @@ public class AlertDialogActivity extends AppCompatActivity {
 
 ```
 
-![image-20251118190704862](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20251118190704862.png)
+![image-20251118190704862](https://cdn.jsdelivr.net/gh/klebgh/androidshiyan@shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20190641.png)
 
 ​	3.使用XML定义菜单
 
@@ -1362,10 +1364,10 @@ public class AlertDialogActivity extends AppCompatActivity {
 
    运行结果如下：
 
-   ![image-20251118192658971](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20251118192658971.png)
+   ![image-20251118192658971](https://cdn.jsdelivr.net/gh/klebgh/androidshiyan@shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20192651.png)
 
    选中第一第二个列表项
 
-   ![image-20251118192732969](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20251118192732969.png)
+   ![image-20251118192732969](https://cdn.jsdelivr.net/gh/klebgh/androidshiyan@shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20192727.png)
 
    点击右上角删除按钮，被选中列表项被删除

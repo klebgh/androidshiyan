@@ -52,7 +52,7 @@ public class ContextmenuActivity extends AppCompatActivity {
         );
 
         mListView.setAdapter(mAdapter);
-        mListView.setChoiceMode(AbsListView.CHOICE_MODE_MULTIPLE_MODAL); /
+        mListView.setChoiceMode(AbsListView.CHOICE_MODE_MULTIPLE_MODAL); 
 
         mListView.setMultiChoiceModeListener(new AbsListView.MultiChoiceModeListener() {
             @Override
