@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
     <application
         android:allowBackup="true"
@@ -22,6 +23,26 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".lab2_layouttest.LinearLayoutActivity"
+            android:exported="true" />
+        <activity android:name=".lab2_layouttest.TableLayoutActivity"
+            android:exported="true"/>
+        <activity android:name=".lab2_layouttest.ConstraintLayoutActivity"
+            android:exported="true"/>
+        <activity android:name=".lab2_layouttest.ConstraintLayout2Activity"
+            android:exported="true"/>
+        <activity android:name=".lab3_layouttest.ListViewActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"/>
+        <activity android:name=".lab3_layouttest.AlertDialogActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"/>
+        <activity android:name=".lab3_layouttest.MenuActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"/>
+        <activity android:name=".lab3_layouttest.ContextmenuActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"/>
     </application>
 
 </manifest>

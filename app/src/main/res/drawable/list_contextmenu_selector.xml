@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 1. 选中状态：显示蓝色背景 -->
+    <item android:state_checked="true"
+        android:drawable="@color/blue" /> <!-- 蓝色背景（需在colors.xml中定义） -->
+
+    <!-- 2. 按压状态：显示浅灰色背景（可选，提升交互体验） -->
+    <item android:state_pressed="true"
+        android:drawable="@color/light_gray" />
+
+    <!-- 3. 默认状态：显示透明背景 -->
+    <item android:drawable="@android:color/transparent" />
+</selector>

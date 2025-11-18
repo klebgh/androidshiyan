@@ -4,6 +4,7 @@ plugins {
     // 修改 Compose 插件声明
     kotlin("jvm") version "1.5.10"
     id("org.jetbrains.compose") version "1.5.10" apply false
+
 }
 
 // 移除 buildscript 和 allprojects 中的重复仓库配置

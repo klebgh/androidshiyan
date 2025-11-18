@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_height="80dp"
+    android:layout_width="match_parent"
+    android:background="@drawable/list_item_selector">
+
+    <!-- 文本控件：占满剩余水平空间 -->
+    <TextView
+        android:id="@+id/tv_item_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="10dp" />
+
+    <!-- 图片控件：居右显示 -->
+    <ImageView
+        android:id="@+id/iv_item_icon"
+        android:layout_marginEnd="10dp"
+        android:layout_gravity="center_vertical"
+        android:layout_width="60dp"
+        android:layout_height="60dp" />
+
+</LinearLayout>
