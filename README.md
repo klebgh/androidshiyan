@@ -230,7 +230,7 @@
 </LinearLayout>
 ```
 
-![image-20251118150138487](https://github.com/klebgh/androidshiyan/blob/shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20150134.png?raw=true)
+![屏幕截图 2025-11-18 150134](https://cdn.jsdelivr.net/gh/klebgh/androidshiyan@shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20150134.png)
 
 ​	2.表格布局
 
@@ -381,7 +381,7 @@
 </TableLayout>
 ```
 
-![image-20251118151537192](https://github.com/klebgh/androidshiyan/blob/shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20151530.png?raw=true)
+![屏幕截图 2025-11-18 151530](https://cdn.jsdelivr.net/gh/klebgh/androidshiyan@shiyan1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-18%20151530.png)
 
 ​	3.约束布局1
 
